@@ -24,33 +24,27 @@
 This course, developed by Manchester Robotics Ltd (MCR2), provides students with a practical introduction to the Robot Operating System 2 (ROS 2) and its application to robotics.
 
    * The course is divided into four sessions, carefully designed to equip participants with the fundamental skills required to develop, configure, visualise, and model robotic systems using ROS 2.
-
-    * Starting with the fundamental concepts of ROS 2, participants progressively develop expertise in ROS architecture, nodes, topics, messages, launch files, namespaces, parameters, coordinate transformations, TF2, URDF, and robot visualisation. Learning is reinforced through practical activities and three mini challenges.
-
-    * By the end of the course, participants will have developed a basic ROS 2 development workflow—from creating ROS 2 nodes and communication systems to managing coordinate transformations and modelling robots using URDF.
-
-    * This repository contains all the presentations, activities, examples, mini challenges, and supporting files required for the ROS 2 Express course.
-
-    * The repository is organised by session, with each subfolder containing the materials and files required to complete the corresponding activities.
+   * Starting with the fundamental concepts of ROS 2, participants progressively develop expertise in ROS architecture, nodes, topics, messages, launch files, namespaces, parameters, coordinate transformations, TF2, URDF, and robot visualisation. Learning is reinforced through practical activities and three mini challenges.
+   * By the end of the course, participants will have developed a basic ROS 2 development workflow—from creating ROS 2 nodes and communication systems to managing coordinate transformations and modelling robots using URDF.
+   * This repository contains all the presentations, activities, examples, mini challenges, and supporting files required for the ROS 2 Express course.
+   * The repository is organised by session, with each subfolder containing the materials and files required to complete the corresponding activities.
 
   
   ## Learning Outcomes
   Upon successful completion of this course, participants will be able to:
-
-    * Develop basic robotic applications using the ROS 2 middleware framework.
-
-    * Create and manage ROS 2 nodes, topics, messages, packages, and launch files.
-    * Configure ROS 2 systems using namespaces and parameters.
-    * Use parameter files to configure ROS 2 nodes.
-    * Visualise and analyse ROS 2 systems using tools such as rqt_graph and rqt_plot.
-    * Define and manage coordinate transformations using the TF2 framework.
-    * Create static and dynamic transformations in ROS 2.
-    * Use TF broadcasters and listeners to manage coordinate frames.
-    * Create, configure, and visualise robot models using URDF and RViz.
-    * Define links and joints for robotic systems.
-    * Use Robot State Publisher and Joint State Publisher.
-    * Integrate ROS 2 components into practical robotic applications.
-    * Apply ROS 2 development practices to practical robotics engineering problems.
+  * Develop basic robotic applications using the ROS 2 middleware framework.
+  * Create and manage ROS 2 nodes, topics, messages, packages, and launch files.
+  * Configure ROS 2 systems using namespaces and parameters.
+  * Use parameter files to configure ROS 2 nodes.
+  * Visualise and analyse ROS 2 systems using tools such as rqt_graph and rqt_plot.
+  * Define and manage coordinate transformations using the TF2 framework
+  * Create static and dynamic transformations in ROS 2.
+  * Use TF broadcasters and listeners to manage coordinate frames.
+  * Create, configure, and visualise robot models using URDF and RViz.
+  * Define links and joints for robotic systems.
+  * Use Robot State Publisher and Joint State Publisher.
+  * Integrate ROS 2 components into practical robotic applications.
+  * Apply ROS 2 development practices to practical robotics engineering problems.
 
   ## General Information
   * Duration: 2 Weeks
