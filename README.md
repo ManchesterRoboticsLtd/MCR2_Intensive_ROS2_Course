@@ -51,7 +51,7 @@ This course, developed by Manchester Robotics Ltd (MCR2), provides students with
   * Professors: TBD
   * Number of Classes: 4
   * Starts: September 15th
-  * Teams Link Classes: https://teams.live.com/meet/9331051352957?p=MS4C60voTtiKh6pEmr
+  * Teams Link Classes: https://teams.microsoft.com/meet/318362166342773?p=24AJxpaliPMQX7YJV6
 
 ## General Requirements
 
