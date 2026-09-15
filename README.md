@@ -65,6 +65,7 @@ The following general requirements apply throughout the course. Please note that
 * Virtual Machine installed before starting the course.
 * Students who require support with Linear Algebra or Kinematics can attend the additional support sessions on Mondays and Wednesdays from 4:30 PM to 6:00 PM.
 * Supporting videos for Virtual Machine installation and basic Ubuntu concepts can be found on this link: https://manchesterrobotics-my.sharepoint.com/:f:/g/personal/mario_mtz_manchester-robotics_com/IgBzfPhlSc2SRZT5z0nXC0ZeAdIKf-20_VbZG07WafiOGXU?e=VMp0yg
+* VMWare installation link: https://manchesterrobotics-my.sharepoint.com/:f:/g/personal/mario_mtz_manchester-robotics_com/Ek7a-yCprKNAvD2lWlNBVDsBW21FV5kKFtZhKlbxL9h7aQ?e=g8yefL
 
 
 # Sessions
