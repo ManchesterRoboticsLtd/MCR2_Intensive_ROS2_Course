@@ -5,7 +5,7 @@ from launch_ros.actions import Node
 
 def generate_launch_description():
 
-    urdf_file_name = 'continuos_ex.urdf'
+    urdf_file_name = 'continuous_ex.urdf'
     urdf = os.path.join(
         get_package_share_directory('joints_act'),
         'urdf',
