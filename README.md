@@ -53,7 +53,7 @@ This course, developed by Manchester Robotics Ltd (MCR2), provides students with
   * Starts: September 15th
   * Teams Link Classes: https://teams.microsoft.com/meet/318362166342773?p=24AJxpaliPMQX7YJV6
   * Video recordings: https://manchesterrobotics-my.sharepoint.com/:f:/g/personal/mario_mtz_manchester-robotics_com/IgATBLvnvRwgRIcMekYBSr8xAQiuQdt6pzmGz0QzXQb5nRU?e=cOteUa
-  * CERTIFICATION: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=dQfP28SpnUOvp08zgT4jvp6Xm1zRBXVAji8N1f1MmDVUNVJTMVpHS0UyR0dFVFA1WjZEU0ZRNDZaNS4u&origin=QRCode
+  * Challenge must be uploaded to: https://forms.cloud.microsoft/e/nSwWce53eC
 
 ## General Requirements
 
